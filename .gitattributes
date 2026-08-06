@@ -1,0 +1,7 @@
+# Normalize to LF in the repo so the Ubuntu Actions runners never see CRLF in
+# the workflow shell steps, regardless of the Windows working copy.
+* text=auto eol=lf
+
+*.jpg binary
+*.png binary
+*.ico binary

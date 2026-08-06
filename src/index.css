@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-page font-sans text-ink antialiased;
+  }
+
+  /* The map's only focus affordance is the fill change, but keyboard users
+     still need a visible ring on everything else. */
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-stategreen;
+  }
+}
