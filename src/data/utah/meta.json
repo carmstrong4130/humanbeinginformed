@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T01:32:33.140Z",
+  "lastUpdated": "2026-08-07T12:03:14.748Z",
   "session": {
     "id": null,
     "label": "2026 General Session",
@@ -13,7 +13,7 @@
   },
   "counts": {
     "legislators": 104,
-    "committees": 80,
+    "committees": 0,
     "bills": 0,
     "voteEvents": 0
   },
@@ -21,6 +21,6 @@
     "name": "Utah State Legislature",
     "url": "https://le.utah.gov"
   },
-  "lastUpdatedRoster": "2026-08-06T01:30:31.396Z",
+  "lastUpdatedRoster": "2026-08-07T12:03:14.748Z",
   "lastUpdatedCalendars": "2026-08-06T01:32:33.140Z"
 }
